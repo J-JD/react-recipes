@@ -1,6 +1,6 @@
 import React from 'react';
 import RecipeTitle from './RecipeTitle.jsx';
-
+import '../public/index.css';
 
 function App() {
     return(
